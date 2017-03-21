@@ -48,6 +48,7 @@ $hr-border-color: #eff0f1;
 .main-content {
   @include large {
     max-width: 100%;
+    padding: 0rem 0rem;
     background-color: white;
   }
   div.col1 {
@@ -57,7 +58,7 @@ $hr-border-color: #eff0f1;
 //    font-size: 1.1rem;
 //    background-color: lightblue;
     width: 100%;
-    padding: 0;
+    padding: 0rem 0rem;
     background-color: lightblue;
     div.col1box {
       max-width: 64rem;
