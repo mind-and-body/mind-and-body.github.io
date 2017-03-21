@@ -52,28 +52,28 @@ $hr-border-color: #eff0f1;
     background-color: white;
   }
   div.col1 {
-//    max-width: 64rem;
-//    padding: 2rem 6rem;
-//    margin: 0 auto;
-//    font-size: 1.1rem;
-//    background-color: lightblue;
     width: 100%;
     padding: 0rem 0rem;
-    background-color: lightblue;
+    background-color: lightyellow;
     div.col1box {
       max-width: 64rem;
       padding: 2rem 6rem;
       margin: 0 auto;
       font-size: 1.1rem;
-      background-color: blue;
+      background-color: lightyellow;
     }
   }
   div.col2 {
-    max-width: 64rem;
-    padding: 2rem 6rem;
-    margin: 0 auto;
-    font-size: 1.1rem;
-    background-color: green;
+    width: 100%;
+    padding: 0rem 0rem;
+    background-color: lightgreen;
+    div.col2box {
+      max-width: 64rem;
+      padding: 2rem 6rem;
+      margin: 0 auto;
+      font-size: 1.1rem;
+      background-color: lightgreen;
+    }
   }
   h1,
   h2,
