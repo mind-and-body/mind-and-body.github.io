@@ -9,6 +9,18 @@ $header-bg-color-secondary: #E86F40;
 
 body {
   background-color: #AB2142;
+    div.col1 {
+    width: 100%;
+//    max-width: 100%;
+    margin: auto;
+    background-color: blue;
+  }
+  div.col2 {
+    width: 100%;
+//    max-width: 100%;
+    margin: auto;
+    background-color: green;
+  }
 }
 
 // Text
@@ -56,18 +68,6 @@ $hr-border-color: #eff0f1;
     margin-bottom: 1rem;
     font-weight: normal;
     color: $section-headings-color;
-  }
-  div.col1 {
-    width: 100%;
-//    max-width: 100%;
-    margin: auto;
-    background-color: blue;
-  }
-  div.col2 {
-    width: 100%;
-//    max-width: 100%;
-    margin: auto;
-    background-color: green;
   }
 }
 
