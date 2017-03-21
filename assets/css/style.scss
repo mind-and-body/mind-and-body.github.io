@@ -7,9 +7,9 @@ $header-heading-color: #E2E2E2;
 $header-bg-color: #AB2142;
 $header-bg-color-secondary: #E86F40;
 
-//body {
-//  background-color: #AB2142;
-//}
+body {
+  background-color: #AB2142;
+}
 
 // Text
 $section-headings-color: #AB2142;
@@ -46,12 +46,6 @@ $hr-border-color: #eff0f1;
 }
 
 .main-content {
-//  @include large {
-//    max-width: 96rem;
-//    padding: 2rem 6rem;
-//    margin: 0 auto;
-//    font-size: 1.1rem;
-//  }
   h1,
   h2,
   h3,
@@ -63,7 +57,18 @@ $hr-border-color: #eff0f1;
     font-weight: normal;
     color: $section-headings-color;
   }
-  background-color: white;
+  div.col1 {
+    width: 100%;
+//    max-width: 100%;
+    margin: auto;
+    background-color: blue;
+  }
+  div.col2 {
+    width: 100%;
+//    max-width: 100%;
+    margin: auto;
+    background-color: green;
+  }
 }
 
 .site-footer {
