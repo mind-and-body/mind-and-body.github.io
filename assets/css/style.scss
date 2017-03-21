@@ -49,18 +49,19 @@ $hr-border-color: #eff0f1;
   @include large {
     max-width: 100%;
     background-color: white;
-    padding: 2rem 6rem;
-    margin: 0 auto;
-    font-size: 1.1rem;
   }
   div.col1 {
     max-width: 64rem;
-    margin: auto;
+    padding: 2rem 6rem;
+    margin: 0 auto;
+    font-size: 1.1rem;
     background-color: blue;
   }
   div.col2 {
     max-width: 64rem;
-    margin: auto;
+    padding: 2rem 6rem;
+    margin: 0 auto;
+    font-size: 1.1rem;
     background-color: green;
   }
   h1,
