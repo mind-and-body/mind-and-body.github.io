@@ -9,6 +9,7 @@ $header-bg-color-secondary: #E86F40;
 
 body {
   background-color: #AB2142;
+  width: 100%;
 }
 
 // Text
@@ -46,12 +47,12 @@ $hr-border-color: #eff0f1;
 }
 
 .main-content {
-  @include large {
-    width: 100%;
-    padding: 2rem 6rem;
-    margin: 0 auto;
-    font-size: 1.1rem;
-  }
+//  @include large {
+//    width: 64rem;
+//    padding: 2rem 6rem;
+//    margin: 0 auto;
+//    font-size: 1.1rem;
+//  }
   div.col1 {
     max-width: 64rem;
     margin: auto;
