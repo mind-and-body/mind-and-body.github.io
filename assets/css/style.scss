@@ -45,13 +45,13 @@ $hr-border-color: #eff0f1;
   }
 }
 
-.main-content {
   @include large {
     max-width: 100%;
     padding: 2rem 6rem;
     margin: 0 auto;
     font-size: 1.1rem;
   }
+.main-content {
   div.col1 {
     max-width: 64rem;
     margin: auto;
