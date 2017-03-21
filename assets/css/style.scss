@@ -51,11 +51,20 @@ $hr-border-color: #eff0f1;
     background-color: white;
   }
   div.col1 {
-    max-width: 64rem;
-    padding: 2rem 6rem;
-    margin: 0 auto;
-    font-size: 1.1rem;
+//    max-width: 64rem;
+//    padding: 2rem 6rem;
+//    margin: 0 auto;
+//    font-size: 1.1rem;
+//    background-color: lightblue;
+    max-width: 100%;
     background-color: lightblue;
+    div.col1 {
+      max-width: 64rem;
+      padding: 2rem 6rem;
+      margin: 0 auto;
+      font-size: 1.1rem;
+      background-color: blue;
+    }
   }
   div.col2 {
     max-width: 64rem;
