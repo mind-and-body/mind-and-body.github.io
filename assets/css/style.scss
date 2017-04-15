@@ -113,6 +113,9 @@ $hr-border-color: #eff0f1;
     margin-right:10%;
     border: 1px solid $table-border-color;
   }
+  tr {
+    width: 80%;
+  }
   td {
     width: 20%;
     text-align:center;
