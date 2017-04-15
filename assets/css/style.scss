@@ -52,6 +52,14 @@ $hr-border-color: #eff0f1;
     padding: 0rem 0rem;
     background-color: white;
   }
+  @include medium {
+    padding: 0rem 0rem;
+    font-size: 1.1rem;
+  }
+  @include small {
+    padding: 0rem 0rem;
+    font-size: 1rem;
+  }
   div.col1 {
     width: 100%;
     padding: 0rem 0rem;
