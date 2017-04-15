@@ -107,7 +107,7 @@ $hr-border-color: #eff0f1;
     }
   }
   table {
-    table-layout: fixed;
+    display: block;
     width: 80%;
     margin-left:10%; 
     margin-right:10%;
