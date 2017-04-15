@@ -111,16 +111,12 @@ $hr-border-color: #eff0f1;
     width: 80%;
     margin-left:10%; 
     margin-right:10%;
-    overflow: auto;
-    word-break: normal;
-    word-break: keep-all; // For Firefox to horizontally scroll wider tables.
-    -webkit-overflow-scrolling: touch;
-
+    border: 1px solid $table-border-color;
     td {
       width: 20%;
       text-align:center;
       padding: 0rem 0rem;
-      border: none;
+      border: 1px solid $table-border-color;
     }
   }
 }
