@@ -108,7 +108,9 @@ $hr-border-color: #eff0f1;
   }
   table {
     display: block;
-    width: 100%;
+    width: 80%;
+    margin-left:10%; 
+    margin-right:10%;
     border: 1px solid $table-border-color;
   }
   td {
