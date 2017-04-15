@@ -114,12 +114,12 @@ $hr-border-color: #eff0f1;
     border: 1px solid $table-border-color;
   }
   td {
-    width: 25%;
+    width: 20%;
     text-align:center;
     padding: 0rem 0rem;
     border: 1px solid $table-border-color;
     &:hover {
-      color: $header-heading-color;
+      background-color: $header-heading-color;
     }
   }
 }
