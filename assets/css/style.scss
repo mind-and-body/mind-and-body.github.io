@@ -76,6 +76,18 @@ $hr-border-color: #eff0f1;
       background-color: lightyellow;
     }
   }
+  div.col3 {
+    width: 100%;
+    padding: 0rem 0rem;
+    background-color: #222222;
+    div.col3box {
+      max-width: 64rem;
+      padding: 2rem 6rem;
+      margin: 0 auto;
+      font-size: 1.1rem;
+      background-color: #222222;
+    }
+  }
   h1,
   h2,
   h3,
