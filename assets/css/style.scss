@@ -82,7 +82,7 @@ $hr-border-color: #eff0f1;
     background-color: #222222;
     div.col3box {
       max-width: 64rem;
-      padding: 2rem 6rem;
+      padding: 1rem 6rem;
       margin: 0 auto;
       font-size: 1.1rem;
       background-color: #222222;
@@ -98,6 +98,24 @@ $hr-border-color: #eff0f1;
     margin-bottom: 1rem;
     font-weight: normal;
     color: $section-headings-color;
+  }
+  table {
+    table-layout: fixed;
+    width: 100%;
+    overflow: auto;
+    word-break: normal;
+    word-break: keep-all; // For Firefox to horizontally scroll wider tables.
+    -webkit-overflow-scrolling: touch;
+
+    th {
+      font-weight: bold;
+    }
+
+    th,
+    td {
+      padding: 0.5rem 1rem;
+      border: 1px solid $table-border-color;
+    }
   }
 }
 
