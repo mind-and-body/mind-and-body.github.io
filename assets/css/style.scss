@@ -109,12 +109,10 @@ $hr-border-color: #eff0f1;
   table {
     display: block;
     width: 100%;
-    margin-left:10%; 
-    margin-right:10%;
     border: 1px solid $table-border-color;
   }
   td {
-    width: 20%;
+    width: 25%;
     text-align:center;
     padding: 0rem 0rem;
     border: 1px solid $table-border-color;
