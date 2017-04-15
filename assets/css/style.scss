@@ -116,11 +116,6 @@ $hr-border-color: #eff0f1;
     word-break: keep-all; // For Firefox to horizontally scroll wider tables.
     -webkit-overflow-scrolling: touch;
 
-    th {
-      font-weight: bold;
-    }
-
-    th,
     td {
       width: 20%;
       text-align:center;
