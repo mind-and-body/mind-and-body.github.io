@@ -134,17 +134,15 @@ $hr-border-color: #eff0f1;
   a {
     color: $body-text-color;
     text-decoration: none;
-    &:hover {
-      text-decoration: underline;
-    }
+//    &:hover {
+//      text-decoration: underline;
+//    }
   }
   table {
-//    display: block;
-    table-layout: fixed;
+    display: block;
+//    table-layout: fixed;
     width: 80%;
     margin: auto;
-//    margin-left:10%; 
-//    margin-right:10%;
     border: 1px solid red;
     td {
       width: 10rem;
@@ -153,7 +151,8 @@ $hr-border-color: #eff0f1;
       padding: 0.5rem 1rem;
       border: 1px solid $table-border-color;
       &:hover {
-        background-color: $header-heading-color;
+//        background-color: $header-heading-color;
+        background-color: $header-bg-color-secondary
       }
     }
   }
