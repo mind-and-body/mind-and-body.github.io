@@ -131,13 +131,16 @@ $hr-border-color: #eff0f1;
     font-weight: normal;
     color: $section-headings-color;
   }
+  /* 
+   * Make a table-like navigation bar
+  */
   .nav_tabs {
-    padding: 0;
-    list-style: none;
     display: table;
     table-layout: fixed;
     width: 80%;
     margin: auto;
+    padding: 0;
+    list-style: none;
     text-align: center;
     overflow: hidden;
     word-wrap: break-word;
