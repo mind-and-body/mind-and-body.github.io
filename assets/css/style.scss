@@ -144,7 +144,6 @@ $hr-border-color: #eff0f1;
     margin-left:10%; 
     margin-right:10%;
     border: 1px solid $table-border-color;
-  }
   td {
     width: 25%;
     text-align:center;
@@ -153,6 +152,7 @@ $hr-border-color: #eff0f1;
     &:hover {
       background-color: $header-heading-color;
     }
+  }
   }
 }
 
