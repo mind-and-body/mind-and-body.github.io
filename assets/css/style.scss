@@ -149,7 +149,8 @@ $hr-border-color: #eff0f1;
   }
   .nav_tabs a {
     padding: 0.5rem 1rem;
-    color: $body-text-color;
+//    color: $body-text-color;
+    color: $header-heading-color;
     text-decoration: none;
   }
   .nav_tabs a:hover {
