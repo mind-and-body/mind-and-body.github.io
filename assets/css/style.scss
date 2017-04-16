@@ -139,7 +139,8 @@ $hr-border-color: #eff0f1;
     }
   }
   table {
-    display: block;
+//    display: block;
+    table-layout: fixed;
     width: 80%;
     margin-left:10%; 
     margin-right:10%;
@@ -147,7 +148,7 @@ $hr-border-color: #eff0f1;
   td {
     width: 25%;
     text-align:center;
-    padding: 0rem 0rem;
+    padding: 0.5rem 1rem;
     border: 1px solid $table-border-color;
     &:hover {
       background-color: $header-heading-color;
