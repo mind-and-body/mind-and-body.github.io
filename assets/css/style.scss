@@ -145,6 +145,9 @@ $hr-border-color: #eff0f1;
     margin-left:10%; 
     margin-right:10%;
     border: 1px solid red;
+    tr {
+      width: 100%;
+      border: 1px solid blue;
     td {
 //      width: 17rem;
       width: 25%;
@@ -154,6 +157,7 @@ $hr-border-color: #eff0f1;
       &:hover {
         background-color: $header-heading-color;
       }
+    }
     }
   }
 }
