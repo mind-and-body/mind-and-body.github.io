@@ -140,6 +140,8 @@ $hr-border-color: #eff0f1;
     margin: auto;
     text-align: center;
     overflow: hidden;
+    word-wrap: break-word;
+//    white-space: nowrap
   }
   .nav_tabs_item {
     display: table-cell;
