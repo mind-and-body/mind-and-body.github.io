@@ -140,10 +140,6 @@ $hr-border-color: #eff0f1;
   }
   table.fixed {
 //    display: block;
-    table-layout: fixed;
-    width: 80%;
-    margin: auto;
-    overflow: hidden;
     border: 1px solid red;
     th, td {
 //      width: 11rem;
@@ -166,7 +162,6 @@ $hr-border-color: #eff0f1;
     width: 80%;
     margin: auto;
     text-align: center;
-//    border-radius: 4px;
     overflow: hidden;
   }
   .tabs__item {
@@ -175,22 +170,14 @@ $hr-border-color: #eff0f1;
   .tabs__link {
     display: block;
   }
-//  .primary-nav {
-//    text-align: center;
-//    border-radius: 4px;
-//    overflow: hidden;
-//  }
-//  .primary-nav a {
   .tabs a {
-            padding: 0.5rem 1rem;
-            background-color: #BADA55;
-            color: #fff;
-  //          font-weight: bold;
-            text-decoration: none;
+    padding: 0.5rem 1rem;
+//    background-color: #BADA55;
+//    color: #fff;
+    text-decoration: none;
   }
-//  .primary-nav a:hover {
   .tabs a:hover {
-            background-color: #A3C43B;
+    background-color: $header-bg-color-secondary;
   }
 }
 
