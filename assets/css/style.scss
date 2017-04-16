@@ -167,6 +167,9 @@ $hr-border-color: #eff0f1;
 //    width: 100%;
     width: 80%;
     margin: auto;
+    text-align: center;
+    border-radius: 4px;
+    overflow: hidden;
   }
   .tabs__item {
     display: table-cell;
@@ -174,13 +177,13 @@ $hr-border-color: #eff0f1;
   .tabs__link {
     display: block;
   }
-  .primary-nav {
-    text-align: center;
-    border-radius: 4px;
-    overflow: hidden;
-  }
+//  .primary-nav {
+//    text-align: center;
+//    border-radius: 4px;
+//    overflow: hidden;
+//  }
   .primary-nav a {
-//            padding: 1em;
+            padding: 0.5rem 1rem;
             background-color: #BADA55;
             color: #fff;
   //          font-weight: bold;
