@@ -100,11 +100,11 @@ $hr-border-color: #eff0f1;
       background-color: lightyellow;
     }
   }
-  div.col3 {
+  div.navbar {
     width: 100%;
     padding: 0rem 0rem;
     background-color: #222222;
-    div.col3box {
+    div.navbar_box {
       max-width: 64rem;
       @include large {
         padding: 0.5rem 6rem;
@@ -131,13 +131,6 @@ $hr-border-color: #eff0f1;
     font-weight: normal;
     color: $section-headings-color;
   }
-//  a {
-//    color: $body-text-color;
-//    text-decoration: none;
-//    &:hover {
-//      text-decoration: underline;
-//    }
-//  }
   .nav_tabs {
     padding: 0;
     list-style: none;
