@@ -117,7 +117,7 @@ $hr-border-color: #eff0f1;
       }
       margin: 0 auto;
       font-size: 1.1rem;
-      background-color: #444444;
+      background-color: #222222;
     }
   }
   h1,
@@ -156,8 +156,7 @@ $hr-border-color: #eff0f1;
   }
   .nav_tabs a {
     padding: 0.5rem 1rem;
-//    background-color: #BADA55;
-//    color: #fff;
+    color: $body-text-color;
     text-decoration: none;
   }
   .nav_tabs a:hover {
