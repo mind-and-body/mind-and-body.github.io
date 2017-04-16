@@ -157,6 +157,36 @@ $hr-border-color: #eff0f1;
       }
     }
   }
+  
+  .tabs {
+    margin:  0;
+    padding: 0;
+    list-style: none;
+    display: table;
+    table-layout: fixed;
+    width: 100%;
+  }
+  .tabs__item {
+    display: table-cell;
+  }
+  .tabs__link {
+    display: block;
+  }
+  .primary-nav {
+    text-align: center;
+    border-radius: 4px;
+    overflow: hidden;
+  }
+  .primary-nav a {
+            padding: 1em;
+            background-color: #BADA55;
+            color: #fff;
+            font-weight: bold;
+            text-decoration: none;
+  }
+  .primary-nav a:hover {
+            background-color: #A3C43B;
+  }
 }
 
 .site-footer {
