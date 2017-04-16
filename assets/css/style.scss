@@ -159,16 +159,14 @@ $hr-border-color: #eff0f1;
   }
   
   .tabs {
-//    margin:  0;
     padding: 0;
     list-style: none;
     display: table;
     table-layout: fixed;
-//    width: 100%;
     width: 80%;
     margin: auto;
     text-align: center;
-    border-radius: 4px;
+//    border-radius: 4px;
     overflow: hidden;
   }
   .tabs__item {
@@ -182,14 +180,16 @@ $hr-border-color: #eff0f1;
 //    border-radius: 4px;
 //    overflow: hidden;
 //  }
-  .primary-nav a {
+//  .primary-nav a {
+  .tabs a {
             padding: 0.5rem 1rem;
             background-color: #BADA55;
             color: #fff;
   //          font-weight: bold;
             text-decoration: none;
   }
-  .primary-nav a:hover {
+//  .primary-nav a:hover {
+  .tabs a:hover {
             background-color: #A3C43B;
   }
 }
