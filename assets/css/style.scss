@@ -30,8 +30,9 @@ $hr-border-color: #eff0f1;
 .page-header {
   color: $header-heading-color;
   text-align: center;
-  background-color: $header-bg-color;
-  background-image: url('{{ site.baseurl }}/img/GroupYogaUnedited.png')
+  //background-color: $header-bg-color;
+  //background-image: url('{{ site.baseurl }}/img/GroupYogaUnedited.png')
+  background-image: linear-gradient(180deg, white, #222222);
   // background-image: linear-gradient(180deg, $header-bg-color-secondary, $header-bg-color);
 
   @include large {
