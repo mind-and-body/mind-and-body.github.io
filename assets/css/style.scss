@@ -100,6 +100,26 @@ $hr-border-color: #eff0f1;
       background-color: #E2E2E2;
     }
   }
+  div.col3 {
+    width: 100%;
+    padding: 0rem 0rem;
+    background-color: white;
+    div.col2box {
+      max-width: 64rem;
+      @include large {
+        padding: 2rem 6rem;
+      }
+      @include medium {
+        padding: 2rem 2rem;
+      }
+      @include small {
+        padding: 1rem 1rem;
+      }
+      margin: 0 auto;
+      font-size: 1.1rem;
+      background-color: white;
+    }
+  }
   div.navbar {
     width: 100%;
     padding: 0rem 0rem;
