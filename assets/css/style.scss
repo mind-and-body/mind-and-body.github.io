@@ -83,7 +83,7 @@ $hr-border-color: #eff0f1;
   div.col2 {
     width: 100%;
     padding: 0rem 0rem;
-    background-color: lightyellow;
+    background-color: #E2E2E2;
     div.col2box {
       max-width: 64rem;
       @include large {
@@ -97,7 +97,7 @@ $hr-border-color: #eff0f1;
       }
       margin: 0 auto;
       font-size: 1.1rem;
-      background-color: lightyellow;
+      background-color: #E2E2E2;
     }
   }
   div.navbar {
