@@ -7,6 +7,10 @@ $header-heading-color: #E2E2E2;
 $header-bg-color: #AB2142;
 $header-bg-color-secondary: #222222;//#E86F40;
 
+header {
+  background-image: url('{{ site.image_url }}/img/GroupYogaUnedited.png');
+}
+
 body {
 //  background-color: #AB2142;
   background-color: #222222;
