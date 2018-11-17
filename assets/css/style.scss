@@ -8,7 +8,7 @@ $header-bg-color: #AB2142;
 $header-bg-color-secondary: #222222;//#E86F40;
 
 header {
-  background-image: url('{{ site.image_url }}/img/GroupYogaUnedited.png');
+  background-image: url('{{ site.baseurl }}/img/GroupYogaUnedited.png');
 }
 
 body {
