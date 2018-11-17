@@ -7,10 +7,6 @@ $header-heading-color: #E2E2E2;
 $header-bg-color: #AB2142;
 $header-bg-color-secondary: #222222;//#E86F40;
 
-// header {
-//   background-image: url('{{ site.base_url }}/img/GroupYogaUnedited.jpg');
-// }
-
 body {
 //  background-color: #AB2142;
   background-color: #222222;
@@ -34,10 +30,7 @@ $hr-border-color: #eff0f1;
 .page-header {
   color: $header-heading-color;
   text-align: center;
-  //background-color: $header-bg-color;
-  background-image: url('{{ site.image_url }}/img/GroupYogaUnedited.jpg');
-  //background-image: linear-gradient(180deg, white, #222222);
-  // background-image: linear-gradient(180deg, $header-bg-color-secondary, $header-bg-color);
+  background-image: url('/img/Yoga.png');
 
   @include large {
     padding: 4rem 6rem;
