@@ -62,26 +62,26 @@ $hr-border-color: #eff0f1;
     padding: 0rem 0rem;
     font-size: 1rem;
   }
-  div.col1 {
-    width: 100%;
-    padding: 0rem 0rem;
-    background-color: white;
-    div.col1box {
-      max-width: 64rem;
-      @include large {
-        padding: 2rem 6rem;
-      }
-      @include medium {
-        padding: 2rem 2rem;
-      }
-      @include small {
-        padding: 1rem 1rem;
-      }
-      margin: 0 auto;
-      font-size: 1.1rem;
-      background-color: white;
-    }
-  }
+//   div.col1 {
+//     width: 100%;
+//     padding: 0rem 0rem;
+//     background-color: white;
+//     div.col1box {
+//       max-width: 64rem;
+//       @include large {
+//         padding: 2rem 6rem;
+//       }
+//       @include medium {
+//         padding: 2rem 2rem;
+//       }
+//       @include small {
+//         padding: 1rem 1rem;
+//       }
+//       margin: 0 auto;
+//       font-size: 1.1rem;
+//       background-color: white;
+//     }
+//   }
   div.col2 {
     width: 100%;
     padding: 0rem 0rem;
