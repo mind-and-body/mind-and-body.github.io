@@ -193,7 +193,7 @@ $hr-border-color: #eff0f1;
   .nav_tabs_item {
     display: table-cell;
     overflow: hidden;
-    width: 33%;
+    white-space: nowrap
   }
   .nav_tabs_link {
     display: block;
