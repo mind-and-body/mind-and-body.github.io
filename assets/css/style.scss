@@ -187,8 +187,12 @@ $hr-border-color: #eff0f1;
     word-wrap: break-word;
     white-space: nowrap
   }
+  .nav_tabs_row {
+    display: table-row;
+  }
   .nav_tabs_item {
     display: table-cell;
+    overflow: hidden;
   }
   .nav_tabs_link {
     display: block;
