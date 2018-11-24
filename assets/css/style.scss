@@ -185,7 +185,7 @@ $hr-border-color: #eff0f1;
     text-align: center;
     overflow: hidden;
     word-wrap: break-word;
-    white-space: nowrap
+    white-space: nowrap;
   }
   .nav_tabs_row {
     display: table-row;
@@ -194,7 +194,7 @@ $hr-border-color: #eff0f1;
     display: table-cell;
     overflow: hidden;
     white-space: nowrap;
-    width: 33%;
+    max-width: 33%;
   }
   .nav_tabs_link {
     display: block;
