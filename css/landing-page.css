@@ -23,7 +23,7 @@ h6 {
 
 .lead {
     font-size: 18px;
-    font-weight: 300;
+    font-weight: 400;
 }
 
 .intro-header {
@@ -174,18 +174,33 @@ p.copyright {
   .container {
     width: 1000px;
   }
+
+  .col-left {
+    position: relative;
+    min-height: 1px;
+    padding-right: 0px;
+    padding-left: 50px;
+  }
+
+  .col-right {
+    position: relative;
+    min-height: 1px;
+    padding-right: 50px;
+    padding-left: 0px;
+  }
 }
 
-.col-left {
-  position: relative;
-  min-height: 1px;
-  padding-right: 0px;
-  padding-left: 50px;
-}
+/* .col-left {
+    position: relative;
+    min-height: 1px;
+    padding-right: 0px;
+    padding-left: 50px;
+  }
+
 
 .col-right {
   position: relative;
   min-height: 1px;
   padding-right: 50px;
   padding-left: 0px;
-}
+} */

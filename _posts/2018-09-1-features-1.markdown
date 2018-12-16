@@ -6,4 +6,6 @@ title: Fitness
 description: |
 ---
 
-Follow a wide variety of gym and bodyweight workouts of different lengths, aims and difficulties.
+<p>Follow a wide variety of gym and bodyweight workouts of different lengths, aims and difficulties.</p>
+<p>Warmups and stretching sessions are given for all sessions.</p>
+<p>HIIT cardio session and bodyweight workouts are also included</p>

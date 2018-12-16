@@ -6,4 +6,5 @@ title: Yoga
 description: |
 ---
 
-Enjoy yoga with nicely flowing practices for all levels and occasions.
+<p>Enjoy yoga with nicely flowing practices for all levels and occasions.</p>
+<p>Use 'Automatic Yoga', set your average breath length and transition bell and follow the practice without touching your phone</p>

@@ -6,6 +6,5 @@ title: Tracking
 description: |
 ---
 
-<p>Acheive your goals through a weekly schedule.</p>
-Have a schedule for every occassion and get help created them.
-<p>Stay motivatied, choosing how best to acheive every goal and keeping variety in your schedule.</p>
+<p>Keep motivated through simple tracking.</p>
+<p>See what you've achieved as a percentage of what you planned.</p>
