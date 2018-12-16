@@ -31,7 +31,7 @@ h6 {
     /* padding-bottom: 50px; */
     text-align: center;
     color: #f8f8f8;
-    background: url(../img/banner-bg2.png) no-repeat center center;
+    background: url(../img/banner1.png) no-repeat center center;
     /* #222222; */
     /* url(../img/intro-bg.png) no-repeat center center; */
     background-size: cover;
@@ -115,7 +115,7 @@ h6 {
 .banner {
     padding: 100px 0;
     color: #f8f8f8;
-    background: url(../img/Meditation.jpg) no-repeat center center;
+    background: url(../img/banner2.png) no-repeat center center;
     background-size: cover;
 }
 
