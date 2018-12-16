@@ -7,5 +7,5 @@ description: |
 ---
 
 <p>Follow a wide variety of gym and bodyweight workouts of different lengths, aims and difficulties.</p>
-<p>Warmups and stretching sessions are given for all sessions.</p>
-<p>HIIT cardio session and bodyweight workouts are also included</p>
+<p>Warm-up and stretching is available for all sessions.</p>
+<p>HIIT (high intensity interval training) cardio sessions and HIIT bodyweight workouts are also included.</p>

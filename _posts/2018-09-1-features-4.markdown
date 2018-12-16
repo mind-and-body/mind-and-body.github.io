@@ -7,5 +7,5 @@ description: |
 ---
 
 <p>Achieve your goals through a weekly schedule.</p>
-Have a schedule for every occasion and get help created them.
-<p>Stay motivated, choosing how best to achieve every goal and keeping variety in your schedule.</p>
+<p>Have a schedule for every occasion and get help creating them.</p>
+<p>Keep variety in your schedule by choosing how to work towards each goal each week.</p>

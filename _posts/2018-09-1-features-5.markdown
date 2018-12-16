@@ -6,5 +6,4 @@ title: Tracking
 description: |
 ---
 
-<p>Keep motivated through simple tracking.</p>
-<p>See what you've achieved as a percentage of what you planned.</p>
+<p>Keep motivated through simple tracking: see what you've achieved as a percentage of what you planned.</p>

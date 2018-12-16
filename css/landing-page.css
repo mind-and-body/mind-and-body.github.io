@@ -31,7 +31,7 @@ h6 {
     /* padding-bottom: 50px; */
     text-align: center;
     color: #f8f8f8;
-    background: url(../img/intro-bg.png) no-repeat center center;
+    background: url(../img/banner-bg2.png) no-repeat center center;
     /* #222222; */
     /* url(../img/intro-bg.png) no-repeat center center; */
     background-size: cover;
@@ -189,18 +189,3 @@ p.copyright {
     padding-left: 0px;
   }
 }
-
-/* .col-left {
-    position: relative;
-    min-height: 1px;
-    padding-right: 0px;
-    padding-left: 50px;
-  }
-
-
-.col-right {
-  position: relative;
-  min-height: 1px;
-  padding-right: 50px;
-  padding-left: 0px;
-} */
