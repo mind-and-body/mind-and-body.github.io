@@ -1,0 +1,8 @@
+---
+layout: default
+img: iPhoneTest2.png
+category: Features
+title: Feature 3
+description: |
+---
+This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
