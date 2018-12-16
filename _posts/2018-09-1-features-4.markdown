@@ -1,0 +1,11 @@
+---
+layout: default
+img: iPhoneTest2.png
+category: features
+title: Schedule
+description: |
+---
+
+Acheive your goals through a weekly schedule.
+Have a schedule for every occassion and get help created them.
+Stay motivatied, choosing how best to acheive every goal and keeping variety in your schedule.

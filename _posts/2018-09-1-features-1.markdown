@@ -2,7 +2,8 @@
 layout: default
 img: iPhoneTest2.png
 category: features
-title: Feature 1
+title: Fitness
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+
+Follow a wide variety of gym and bodyweight workouts of different lengths, aims and difficulties.
