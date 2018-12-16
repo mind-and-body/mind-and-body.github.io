@@ -167,3 +167,25 @@ footer {
 p.copyright {
     margin: 15px 0 0;
 }
+
+
+/* Override */
+@media (min-width: 1200px) {
+  .container {
+    width: 1000px;
+  }
+}
+
+.col-left {
+  position: relative;
+  min-height: 1px;
+  padding-right: 0px;
+  padding-left: 50px;
+}
+
+.col-right {
+  position: relative;
+  min-height: 1px;
+  padding-right: 50px;
+  padding-left: 0px;
+}
