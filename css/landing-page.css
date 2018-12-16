@@ -172,3 +172,8 @@ p.copyright {
   justify-content: center;
   flex-direction: row;
 }
+
+.bottom-align img{
+  vertical-align:bottom;
+  border:0;
+}
