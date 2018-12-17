@@ -5,13 +5,14 @@
 url: http://yoursite.com
 title: Mind & Body
 email: support@mind-and-body.info
-author: Your Name
+author: Luke Smith
 description: > # "Write an awesome description for your new site here.
+  Mind & Body fitness yoga meditation workout warm-up warm up stretching
   You can edit this line in _config.yml. It will appear in your document
   head meta (for Google search results) and in your feed.xml site
   description.
 copyright: 'Copyright &copy; 2018-19 Luke Andrew Smith. All Rights Reserved.'
-credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+credits: 'Site Theme: <a href="https://github.com/swcool/landing-page-theme">Bootstrap Landing Page</a>.'
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -29,6 +30,6 @@ social:
   # - title: twitter
   #   url: https://twitter.com/SBootstrap
   - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+    url: https://github.com/LukeAndrewSmith
   # - title: linkedin
   #   url:
