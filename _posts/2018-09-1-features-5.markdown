@@ -1,6 +1,6 @@
 ---
 layout: default
-img: iPhoneTest2.png
+img: /apng/6Tracking.png
 category: features
 title: Tracking
 description: |

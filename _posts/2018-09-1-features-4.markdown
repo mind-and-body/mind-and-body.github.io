@@ -1,6 +1,6 @@
 ---
 layout: default
-img: iPhoneTest2.png
+img: /apng/5Schedule.png
 category: features
 title: Schedule
 description: |

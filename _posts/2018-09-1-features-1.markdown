@@ -1,6 +1,6 @@
 ---
 layout: default
-img: iPhoneTest2.png
+img: apng/2Fitness.png
 category: features
 title: Fitness
 description: |

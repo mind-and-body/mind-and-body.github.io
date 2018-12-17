@@ -1,6 +1,6 @@
 ---
 layout: default
-img: iPhoneTest2.png
+img: /apng/3Yoga.png
 category: features
 title: Yoga
 description: |
