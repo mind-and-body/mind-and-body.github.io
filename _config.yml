@@ -8,9 +8,6 @@ email: support@mind-and-body.info
 author: Luke Smith
 description: > # "Write an awesome description for your new site here.
   Mind & Body fitness yoga meditation workout warm-up warm up stretching
-  You can edit this line in _config.yml. It will appear in your document
-  head meta (for Google search results) and in your feed.xml site
-  description.
 copyright: 'Copyright &copy; 2018-19 Luke Andrew Smith. All Rights Reserved.'
 credits: 'Site Theme: <a href="https://github.com/swcool/landing-page-theme">Bootstrap Landing Page</a>.'
 
