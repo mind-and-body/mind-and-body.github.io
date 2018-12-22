@@ -194,3 +194,8 @@ p.copyright {
   color:#d99a30;
   /* color:#ab4124; */
 }
+
+.vertical-align {
+    display: flex;
+    align-items: center;
+}
