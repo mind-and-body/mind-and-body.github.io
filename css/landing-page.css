@@ -157,6 +157,11 @@ h6 {
     ul.banner-social-buttons > li:last-child {
         margin-bottom: 0;
     }
+
+    .vertical-align {
+      display: flex;
+      align-items: center;
+    }
 }
 
 footer {
@@ -187,11 +192,6 @@ p.copyright {
     min-height: 1px;
     padding-right: 50px;
     padding-left: 0px;
-  }
-
-  .vertical-align {
-    display: flex;
-    align-items: center;
   }
 }
 
